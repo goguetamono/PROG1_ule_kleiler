@@ -1,0 +1,10 @@
+kiwi https://dle.rae.es/kiwi
+musaraña https://dle.rae.es/musara%C3%B1a?m=form
+pastel https://dle.rae.es/pastel?m=form
+queso https://dle.rae.es/queso?m=form
+esfera https://dle.rae.es/esfera?m=form
+linterna https://dle.rae.es/linterna?m=form
+silla https://dle.rae.es/silla%20?m=form
+cafe https://dle.rae.es/caf%C3%A9
+oso https://dle.rae.es/oso?m=form
+gato https://dle.rae.es/gato?m=form
